@@ -1,4 +1,4 @@
-// Vie Company — script compartilhado (menu mobile + formulário de contato)
+// Vie Company: script compartilhado (menu mobile + formulário de contato)
 
 const menuToggle = document.getElementById('menuToggle');
 const navLinks = document.getElementById('navLinks');

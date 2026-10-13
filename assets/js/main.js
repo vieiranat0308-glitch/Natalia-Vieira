@@ -19,6 +19,6 @@ if (contactForm) {
     if (especialidade) text += ` Sou ${especialidade}.`;
     if (mensagem) text += ` ${mensagem}`;
     text += ` Meu WhatsApp para contato: ${whatsapp}.`;
-    window.open(`https://wa.me/5521976656333?text=${encodeURIComponent(text)}`, '_blank');
+    window.open(`https://wa.me/5521990338504?text=${encodeURIComponent(text)}`, '_blank');
   });
 }

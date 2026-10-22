@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://viecompany.com.br/sitemap.xml
+Sitemap: https://www.viecompany.com.br/sitemap.xml
